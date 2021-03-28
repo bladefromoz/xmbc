@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1,Seven Cairns
+
+https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
+
+#EXTINF:-1,Seven Mackay
+
+https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
+
+#EXTINF:-1,Seven Rockhampton
+
+https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
+
+#EXTINF:-1,Seven Sunshine Coast
+
+https://npc.cdn.7livecloud.io/hls/live/SSC1/masterSD.m3u8
+
+#EXTINF:-1,Seven Gold Coast
+
+https://npc.cdn.7livecloud.io/hls/live/GLD1/masterSD.m3u8
+
+#EXTINF:-1,Seven Toowoomba
+
+https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
+
+#EXTINF:-1,Seven Townsville
+
+https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
+
+#EXTINF:-1,Seven Wide Bay
+
+https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
